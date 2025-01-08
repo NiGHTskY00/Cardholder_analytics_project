@@ -30,3 +30,11 @@ This project showcases a **Credit Card Customer Analytics Dashboard** developed 
 - **PostgreSQL:** Used to store, query, and analyze structured data efficiently.
 - **GitHub:** Version control and repository management for project files.
 
+## Dashboard Preview
+
+Here is a preview of the **Power BI Dashboard**:
+
+![Dashboard Image](dashboard/cc_customers.png)
+![Dashboard Image](dashboard/cc_transactions.png)
+
+
