@@ -1,38 +1,38 @@
 # 💳 Credit Card Customer Analytics Dashboard  
 
-This project showcases a **Credit Card Customer Analytics Dashboard** built using **Power BI** and **PostgreSQL**. It provides a **holistic view of customer behavior and financial performance**, helping organizations **optimize strategies, enhance revenue, and manage risks effectively**.  
+This **interactive Power BI dashboard** provides a **comprehensive analysis of credit card customer behavior**, focusing on **spending patterns, revenue trends, and financial risk assessment**. Built using **Power BI** and **PostgreSQL**, it enables organizations to **make data-driven decisions, optimize marketing strategies, and improve financial performance**.  
 
 ## 📊 Dashboard Preview  
 
 ![Customer Revenue Dashboard](dashboard/cc_customers.png)  
 ![Transaction Analysis Dashboard](dashboard/cc_transactions.png)  
 
-## 🚀 Key Features  
+## 🚀 Key Insights  
 
-1. **Customer Revenue Insights:**  
-   - **Revenue Breakdown by Age Group** – Detailed visualization of revenue contributions segmented across various age brackets.  
-   - **Top Revenue by Job and Education Levels** – Identifies key occupations such as *business owners* and *graduates* as primary revenue contributors.  
-   - **High-Value Customer Identification** – Spotlights high-revenue customers based on spending patterns.  
+### 🏆 Customer Revenue & Spending Analysis  
+- **Revenue Breakdown by Age & Job** – Identifies key demographics contributing the most revenue.  
+- **Top Revenue by Education Level** – Highlights high-value customers such as *graduates* and *business owners*.  
+- **High-Spending Customers** – Detects premium customers based on transaction history.  
 
-2. **Transaction & Spending Analysis:**  
-   - **Revenue by Card Category** – Breakdown of revenue from different card types (*Blue, Silver, Gold, Platinum*).  
-   - **Spending Methods** – Insights into **swipe, chip, and online** transactions to track customer payment preferences.  
-   - **Average Transaction Value** – Analysis of customer spending behavior per transaction.  
+### 💰 Transaction Trends & Payment Methods  
+- **Revenue by Card Category** – Breakdown of revenue across *Blue, Silver, Gold, and Platinum* cards.  
+- **Spending Preferences** – Analyzes **swipe, chip, and online** transactions to track customer behavior.  
+- **Average Transaction Value** – Insights into spending habits and transaction frequency.  
 
-3. **Interactive Visualizations:**  
-   - **Quarterly Revenue Trends** – Highlights revenue growth across four quarters with comparisons to total transaction amounts.  
-   - **Customer Segmentation** – Categorization by **marital status, job roles, education levels, and expenditure types**.  
-   - **Overdue Payment Analysis** – Identifies customers with delayed payments and overdue balances.  
+### 📈 Financial Performance & Risk Assessment  
+- **Quarterly Revenue Growth** – Compares revenue trends across four quarters.  
+- **Overdue Payment Analysis** – Identifies customers with late payments and potential financial risks.  
+- **Customer Segmentation** – Categorization by **marital status, job roles, education levels, and expenditure types** for better targeting.  
 
 ## 🔧 Tasks Implemented  
 
-- **Database Setup** – Designed and implemented a **PostgreSQL** database for structured data storage.  
-- **SQL Queries** – Created optimized queries to analyze customer transactions and spending behavior.  
-- **Data Cleaning & Transformation** – Processed raw data to ensure accuracy in dashboards.  
-- **Power BI Dashboard Development** – Built interactive dashboards for real-time insights.  
+- **Database Setup** – Designed and structured a **PostgreSQL** database for efficient data storage.  
+- **SQL Query Optimization** – Developed queries for **customer insights, transactions, and overdue payments**.  
+- **Data Processing** – Cleaned and transformed raw data for accurate analysis.  
+- **Power BI Dashboard Development** – Built **interactive, real-time dashboards** for easy data interpretation.  
 
 ## 🛠 Tools Used  
 
-- **Power BI** – Interactive visualizations.  
-- **PostgreSQL** – Data storage, querying, and analysis.  
-- **GitHub** – Version control.  
+- **Power BI** – Data visualization and interactive dashboards.  
+- **PostgreSQL** – Relational database for data storage and querying.  
+- **GitHub** – Version control and project management.  
